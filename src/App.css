@@ -1,0 +1,160 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("./assets/fonts/Montserrat/static/Montserrat-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/fonts/Poppins/Poppins-Regular.ttf");
+}
+
+.App {
+  /* text-align: center; */
+  background-color: #282c34;
+  color: white;
+}
+
+body {
+  background-color: #090909 !important;
+  color: white !important;
+  /* font-family:"Montserrat"!important; */
+  font-family: "Poppins" !important;
+
+  /* background: url("../src/assets/images/logo_image.png")no-repeat; */
+}
+
+:root {
+  ---bgColor: #090909;
+  ---colorMeroon: #f00c53;
+}
+
+.textColor {
+  color: var(---colorMeroon);
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.navbar a {
+  color: white;
+}
+
+.navbar a:hover {
+  color: #f00c53;
+}
+
+.bg-body-tertiary {
+  --bs-bg-opacity: 1;
+  background-color: none;
+}
+
+.btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: #f00c53 !important;
+  border-color: #f00c53 !important;
+}
+
+.nav_btn_hover {
+  background-color: white;
+  color: white;
+}
+
+.bg-black {
+  background-color: var(---bgColor);
+}
+
+
+.nav-tabs {
+  --bs-nav-tabs-border-width: none !important;
+  --bs-nav-tabs-border-color: none !important;
+  --bs-nav-tabs-border-radius: none !important;
+  --bs-nav-tabs-link-hover-border-color: none !important;
+  --bs-nav-tabs-link-active-color: none !important;
+  --bs-nav-tabs-link-active-bg: none !important;
+  --bs-nav-tabs-link-active-border-color: none !important;
+  border-bottom: none !important;
+}
+
+.nav-link {
+  color: White !important;
+}
+
+
+.nav-tabs:focus-visible {
+  outline: none !important;
+}
+
+.nav-tabs .nav-link.active {
+  color: #f00c53 !important;
+}
+
+.fs_6 {
+  font-size: 17px !important;
+}
+
+#cardhover:hover {
+  background-color: #f00c53;
+  color: white;
+}
+
+.cardhover:hover .h4 {
+  color: white!important;
+}
+.mt-6{
+  margin-top: 280px;
+  /* margin-bottom: end!important; */
+}
+.form-control::placeholder{
+  color: #bdb0b0!important;
+  font-size: smaller;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.fs-sm{
+  font-size: 14px;
+}
+
+
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
