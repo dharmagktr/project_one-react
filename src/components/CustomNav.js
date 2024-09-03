@@ -24,7 +24,7 @@ function CustomNav() {
                             navbarScroll
                         >
                             <Nav.Link   href="/">Home</Nav.Link>
-                            <Nav.Link   href="/About">About</Nav.Link>
+                            <Nav.Link   href="About">About</Nav.Link>
                             <Nav.Link   href="/Service">Service</Nav.Link>
                             <Nav.Link   href="/Portfolio">Portpolio</Nav.Link>
                             <Nav.Link   href="/Blog">Blog</Nav.Link>
@@ -33,12 +33,6 @@ function CustomNav() {
 
                             <SearchBar />
                         <Form className="d-flex">
-                            {/* <Form.Control
-                                type="search"
-                                placeholder="Search"
-                                className="me-2"
-                                aria-label="Search"
-                            /> */}
                             <Button variant="outline-secondary nav_btn_hover">Search</Button>
                         </Form>
                     </Navbar.Collapse>
