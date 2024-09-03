@@ -86,7 +86,7 @@ export const ContactUs = () => {
                   <Text text="WELCOME TO MY WORLD" />
                   <Text style="display-4 fw-bold mt-2" text="Hi, I'm Dharma" />
                   <Text style="display-4 fw-bold textColor my-2" text="Front-end Developer" />
-                  <Section>{loopDatas}</Section>
+                  {/* <Section>{loopDatas}</Section> */}
   
                   <Text style="display-4 fw-bold" text="Based in India." />
                 </Section>
