@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react_project-1/static/css/main.bfe06c93.css",
+    "main.js": "/react_project-1/static/js/main.03147a83.js",
+    "static/js/453.fbc5742e.chunk.js": "/react_project-1/static/js/453.fbc5742e.chunk.js",
+    "static/media/Montserrat-Bold.ttf": "/react_project-1/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Poppins-Regular.ttf": "/react_project-1/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/cardBgImage1.jpg": "/react_project-1/static/media/cardBgImage1.6dd6354d36a291099ee7.jpg",
+    "static/media/cardBgImage4.jpg": "/react_project-1/static/media/cardBgImage4.2d8bf5e6d107d1355320.jpg",
+    "static/media/cardBgImage2.jpg": "/react_project-1/static/media/cardBgImage2.7581ecc62ee35f3f74f4.jpg",
+    "static/media/lastImageThree.jpg": "/react_project-1/static/media/lastImageThree.1bced0df5ad80f8eeb76.jpg",
+    "static/media/banner_img.jpg": "/react_project-1/static/media/banner_img.24eb96f8e6097d2556e9.jpg",
+    "static/media/lastImageOne.jpg": "/react_project-1/static/media/lastImageOne.67ebb920a48800aa0294.jpg",
+    "static/media/navTabaImage.jpg": "/react_project-1/static/media/navTabaImage.ef784249e2e836cb9be8.jpg",
+    "static/media/cardBgImage3.jpg": "/react_project-1/static/media/cardBgImage3.e1d203d20eb86c807af6.jpg",
+    "static/media/lastImageTwo.jpg": "/react_project-1/static/media/lastImageTwo.6ecd55ed4e6547e4ca0d.jpg",
+    "index.html": "/react_project-1/index.html",
+    "main.bfe06c93.css.map": "/react_project-1/static/css/main.bfe06c93.css.map",
+    "main.03147a83.js.map": "/react_project-1/static/js/main.03147a83.js.map",
+    "453.fbc5742e.chunk.js.map": "/react_project-1/static/js/453.fbc5742e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfe06c93.css",
+    "static/js/main.03147a83.js"
+  ]
+}
