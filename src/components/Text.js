@@ -4,7 +4,7 @@ function Text({style, text}) {
    
 
     return (
-        <div className={style}>{text}</div>
+        <div data-aos="fade-up" data-aos-duration="1500" className={style}>{text}</div>
     )
 }
 
